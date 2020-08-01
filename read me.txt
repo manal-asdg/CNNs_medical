@@ -1,1 +1,0 @@
-in relu, the file 0 to 4 is Glaucoma data, the file 5 to 7 is normal data
